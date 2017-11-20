@@ -1,1 +1,1 @@
-# node-mysql-burger
+# node-mysql-burger-homework
